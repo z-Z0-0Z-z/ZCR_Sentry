@@ -1,0 +1,27 @@
+# Keil MDK-ARM build output
+ZCR_Sentry/MDK-ARM/ZCR_Sentry/
+ZCR_Sentry/MDK-ARM/DebugConfig/
+ZCR_Sentry/MDK-ARM/RTE/Device/
+ZCR_Sentry/MDK-ARM/*.lst
+ZCR_Sentry/MDK-ARM/*.crf
+ZCR_Sentry/MDK-ARM/*.dep
+ZCR_Sentry/MDK-ARM/*.map
+ZCR_Sentry/MDK-ARM/*.hex
+ZCR_Sentry/MDK-ARM/*.bin
+ZCR_Sentry/MDK-ARM/*.axf
+ZCR_Sentry/MDK-ARM/*.elf
+
+# Keil user-specific settings
+ZCR_Sentry/MDK-ARM/*.uvguix.*
+ZCR_Sentry/MDK-ARM/*.uvoptx
+ZCR_Sentry/MDK-ARM/.vscode/
+
+# Build and tool logs
+build_check.log
+ZCR_Sentry/MDK-ARM/*.log
+ZCR_Sentry/MDK-ARM/build.log
+ZCR_Sentry/MDK-ARM/build_log.txt
+
+# General
+.DS_Store
+Thumbs.db
